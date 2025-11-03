@@ -1,6 +1,6 @@
 Hi there 👋
 
-I’m Nour Smiai, a second-year Big Data Engineering student at Polytech INTL, passionate about leveraging AI and data analytics to design smart solutions. 🚀 I thrive on challenges and am always eager to learn and grow in the tech space.
+I’m Nour Smiai, a Final year Big Data Engineering student at Polytech INTL, passionate about leveraging AI and data analytics to design smart solutions. 🚀 I thrive on challenges and am always eager to learn and grow in the tech space.
 
 
 🔍 I’m currently working on: Enhancing my skills in computer vision through a Facial Expression Recognition (FER) project using the FER-2013 dataset, following the CRISP-DM methodology. 📷 <br>
@@ -13,7 +13,7 @@ I’m Nour Smiai, a second-year Big Data Engineering student at Polytech INTL, p
 
 💬 Ask me about: My experience with Agile/Scrum in managing projects, or how I automated university internship processes using Odoo ERP during my internship at Zeenovi. ⚙️<br>
 
-📧 How to reach me: Drop me an email at smiainour01@gmail.com or connect with me on LinkedIn. 📩<br>
+📧 How to reach me: Drop me an email at smiainour01@gmail.com or connect with me on [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/smiai-nour). 📩<br>
 
 ⚡ Fun fact: I built a machine learning-trained chatbot in just 12 hours during a hackathon—talk about a coding sprint! 🏃‍♀️
 
